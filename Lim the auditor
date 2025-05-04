@@ -1,0 +1,10 @@
+CONTEXT:
+Our Operations team has been collecting relationship information (e.g. Shareholders, Directors etc…) from annual reports and daily announcement available on several stock exchanges, such as  SGX, BursaMalaysia, etc… and this task is very manual.
+
+They need to download reports and daily announcement manually from each website everyday, open the document, find the relevant sections, and extract the information out, put into a data-entry app, and have 4-eye checks.
+
+
+QUESTIONS:
+
+As a Product Manager tasked to cut the operational cost of this end-end process, how would you approach this problem?
+
